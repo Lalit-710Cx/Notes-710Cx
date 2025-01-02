@@ -9,7 +9,6 @@
   "handwritten-notes",
   "heading-level-indent",
   "obsidian-hotkeys-for-templates",
-  "obsidian-kanban",
   "url-into-selection",
   "pomodoro-timer",
   "obsidian-relative-line-numbers",
@@ -23,5 +22,6 @@
   "obsidian-full-calendar",
   "obsidian-pandoc",
   "various-complements",
-  "obsidian-vimrc-support"
+  "obsidian-vimrc-support",
+  "obsidian-icon-folder"
 ]

@@ -13,5 +13,6 @@
   "rightToLeft": false,
   "showUnsupportedFiles": false,
   "promptDelete": false,
-  "showInlineTitle": true
+  "showInlineTitle": true,
+  "readableLineLength": false
 }
